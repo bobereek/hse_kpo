@@ -42,8 +42,8 @@ public class Zoo
 
     public void CheckInventory()
     {
-        animals_storage.CheckInventory();
-        things_storage.CheckInventory();
+        animals_storage.CheckStorage();
+        things_storage.CheckStorage();
     }
 
 }

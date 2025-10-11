@@ -105,3 +105,4 @@ C:\Users\qqml\hse\KPO\HW1\HW1.Tests\bin\Debug\net9.0\Microsoft.Extensions.Depend
 C:\Users\qqml\hse\KPO\HW1\HW1.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\qqml\hse\KPO\HW1\HW1.Tests\bin\Debug\net9.0\HW1.dll
 C:\Users\qqml\hse\KPO\HW1\HW1.Tests\bin\Debug\net9.0\HW1.pdb
+C:\Users\qqml\hse\KPO\HW1\HW1.Tests\obj\Debug\net9.0\HW1.Tests.sourcelink.json

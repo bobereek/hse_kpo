@@ -1,4 +1,4 @@
 public interface IStorage
 {
-    public void CheckInventory();
+    public void CheckStorage();
 }

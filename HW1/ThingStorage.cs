@@ -4,7 +4,7 @@ public class ThingStorage : IThingStorage
     private List<Thing> storage = new List<Thing>();
 
     public List<Thing> Things => storage;
-    public void CheckInventory()
+    public void CheckStorage()
     {
         foreach (var thing in storage)
         {

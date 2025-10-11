@@ -70,7 +70,7 @@ public class AnimalStorage: IAnimalStorage
         return contactAnimals;
     }
 
-    public void CheckInventory()
+    public void CheckStorage()
     {
         foreach (var animal in storage)
         {
